@@ -5,8 +5,8 @@ About Cycles [^5]
 
 ## Cycle 1 [^2]
 
-### 01 - Implementation of Linear Search
-[Download](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/01%20-%20Implementation%20of%20Linear%20Search.c)
+### [01 - Implementation of Linear Search](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/01%20-%20Implementation%20of%20Linear%20Search.c)
+[Open](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/01%20-%20Implementation%20of%20Linear%20Search.c)
 ### 02 - Implementation of Binary Search
 ### 03 - Implementation of Sparse Matrix
 ### 04 - Implementation of Polynomial Addition
