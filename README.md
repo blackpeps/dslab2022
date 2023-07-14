@@ -20,7 +20,7 @@ About Cycles [^5]
 ### [11 - Queue using Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/11%20-%20Queue%20using%20Linked%20List.c)
 ### [12 - Priority Queue using Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/12%20-%20Priority%20Queue%20using%20Linked%20List.c)
 ### [13 - Singly Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/13%20-%20Singly%20Linked%20List.c)
-### [14 - Circular Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/14%20-%20Circular%20Queue.c)
+### [14 - Circular Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/14%20-%20Circular%20Linked%20List.c)
 ### [15 - Doubly Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/15%20-%20Doubly%20Linked%20List.c)
 ### [16 - Polynomial Addition using Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/16%20-%20Polynomial%20Addition%20using%20Linked%20List.c)
 >Tree and Graph
