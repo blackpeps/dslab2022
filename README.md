@@ -1,7 +1,5 @@
 # Data Structure - Syllabus [^1]
 
-Codes aggregated and corrected by [S Sreeram](https://www.instagram.com/_black.peps/). The repository belongs to him.
-
 About Cycles [^5]
 [^5]: KTU Syllabus doesn't specify any Cycle, this method of splitting the programs into three sections is for better understanding.
 
