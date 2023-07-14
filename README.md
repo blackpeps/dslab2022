@@ -8,7 +8,7 @@ About Cycles [^5]
 ### [02 - Implementation of Binary Search](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/02%20-%20Implementation%20of%20Binary%20Search.c)
 ### [03 - Implementation of Sparse Matrix](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/03%20-%20Implementation%20of%20Sparse%20Matrix.c)
 ### [04 - Implementation of Polynomial Addition](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/04%20-%20Implementation%20of%20Polynomial%20Addition.c)
-### [05 - Implementation of Stack](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/04%20-%20Implementation%20of%20Polynomial%20Addition.c)
+### [05 - Implementation of Stack](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/05%20-%20Implementation%20of%20Stack.c)
 ### [06 - Implementation of Queue](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/06%20-%20Implementation%20of%20Queue.c)
 ### [07 - Infix to Postfix Conversion](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/07%20-%20Infix%20to%20Postfix%20Conversion.c)
 ### [08 - Evaluation of postfix Expression](https://github.com/blackpeps/dslab2022/blob/main/Cycle%201/08%20-%20Evaluation%20of%20postfix%20Expression.c)
@@ -20,7 +20,7 @@ About Cycles [^5]
 ### [11 - Queue using Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/11%20-%20Queue%20using%20Linked%20List.c)
 ### [12 - Priority Queue using Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/12%20-%20Priority%20Queue%20using%20Linked%20List.c)
 ### [13 - Singly Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/13%20-%20Singly%20Linked%20List.c)
-### [14 - Circular Queue](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/13%20-%20Singly%20Linked%20List.c)
+### [14 - Circular Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/14%20-%20Circular%20Queue.c)
 ### [15 - Doubly Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/15%20-%20Doubly%20Linked%20List.c)
 ### [16 - Polynomial Addition using Linked List](https://github.com/blackpeps/dslab2022/blob/main/Cycle%202/16%20-%20Polynomial%20Addition%20using%20Linked%20List.c)
 >Tree and Graph
