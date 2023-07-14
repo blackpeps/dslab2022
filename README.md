@@ -7,9 +7,8 @@ About Cycles [^5]
 
 ## Cycle 1 [^2]
 
-01 - Implementation of Linear Search
-
-02 - Implementation of Binary Search
+### 01 - Implementation of Linear Search
+### 02 - Implementation of Binary Search
 ### 03 - Implementation of Sparse Matrix
 ### 04 - Implementation of Polynomial Addition
 ### 05 - Implementation of Stack
